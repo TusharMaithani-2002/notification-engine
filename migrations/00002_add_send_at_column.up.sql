@@ -1,0 +1,1 @@
+ALTER TABLE notifications ADD COLUMN send_at TIMESTAMP NULL
